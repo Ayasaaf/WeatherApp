@@ -1,0 +1,58 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log files
+*.log
+
+# Android Studio
+.idea/
+*.iml
+*.hprof
+
+# Keystore files (don't include sensitive information in version control)
+*.jks
+
+# Gradle Wrapper
+gradle/wrapper/gradle-wrapper.properties
+gradle/wrapper/gradle-wrapper.jar
+
+# Android build folders
+/build/
+/app/build/
+/libs/
+/captures/
+
+# Miscellaneous
+.DS_Store
+*.class
+*.apk
+*.ap_
+*.dex
+*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.gz
+*.7z
+*.o
+*.so
+*.a
+*.lib
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Generated code
+generated/
+
+# API Keys and sensitive files
+local.properties
+*.env
+
